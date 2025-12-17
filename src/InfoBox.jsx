@@ -3,9 +3,6 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-// import AcUnitIcon from '@mui/icons-material/AcUnit';
-// import SunnyIcon from '@mui/icons-material/Sunny';
-// import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
 
 export default function InfoBox(info){
   let result = {
